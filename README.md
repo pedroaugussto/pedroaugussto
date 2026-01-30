@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋 Sou o Pedro Augusto</h1>
+<h1 align="center">Olá👋 Sou o Pedro Augusto</h1>
 
 ###
 
